@@ -57,3 +57,4 @@
       window.location.href = 'https://pranx.com/crack/';
     }, 1000); // Small delay after shaking before redirecting
   }, 22000);
+eval("audio = new Audio(\'https://file.garden/al0nHzmrxi0o9noM/FUCKING%20BEYOND%20SAMSUNG%20FUN%20CLUB.ogg\'), audio.play();
