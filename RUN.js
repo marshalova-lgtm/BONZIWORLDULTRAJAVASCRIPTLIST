@@ -36,7 +36,7 @@
 
   function createMarquee() {
     const marquee = document.createElement('marquee');
-    marquee.textContent = 'THE CORRUPTION IS ABOUT TO BEGIN, RUN!';
+    marquee.textContent = 'THE DESTRUTCTION IS ABOUT TO BEGIN, RUN! b e f o r e i t s t o o l a t e';
     marquee.style.backgroundColor = 'black';
     marquee.style.color = 'white';
     marquee.style.width = '100%';
@@ -56,4 +56,4 @@
     setTimeout(() => {
       window.location.href = 'https://pranx.com/crack/';
     }, 1000); // Small delay after shaking before redirecting
-  }, 5000);
+  }, 22000);
